@@ -57,7 +57,7 @@ void electionResult()
         wonByVote=ysrcp-congress;
         printf("YSRCP won by %d votes to Congress\n",wonByVote);
         wonByVote=ysrcp-tdp;
-        printf("YSRCP won by %d votes to AAP\n",wonByVote);
+        printf("YSRCP won by %d votes to TDP\n",wonByVote);
         wonByVote=ysrcp-bjp;
         printf("YSRCP won by %d votes to BJP\n",wonByVote);
     }
