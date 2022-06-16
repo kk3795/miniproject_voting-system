@@ -103,6 +103,7 @@ void main()
         printf("Press 5 to show election result\n");
         printf("Please choose : ");
         scanf("%d", &choose);
+        printf("\n\n");
         if (choose==5)
         {
             electionResult();
